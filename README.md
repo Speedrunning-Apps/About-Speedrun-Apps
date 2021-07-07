@@ -8,7 +8,7 @@ This organization was mostly made for MCBE users, because MCBE has more limitati
 
 **[MC Stronghold Locator](https://github.com/Speedrunning-Tools/MC-Stronghold-Locator)** - This is a script that locates the Stronghold entrance.
 
-**[Mc Treasure Locator](https://github.com/Speedrunning-Tools/MC-Treasure-Locator)** - This is a script that looks for the Treasure location.
+**[MC Treasure Locator](https://github.com/Speedrunning-Tools/MC-Treasure-Locator)** - This is a script that looks for the Treasure location.
 
 **More Coming Soon!**
 
